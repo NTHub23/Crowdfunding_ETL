@@ -22,7 +22,8 @@ Description: The proposal includes specifying the type of database that will be 
 
 
 <strong>ERD</strong><br>
-![ERD](https://raw.githubusercontent.com/Hamim-Hussain/Crowdfunding_ETL/main/ERD.PNG)
+https://github.com/NTHub23/Crowdfunding_ETL/blob/main/crowdfunding_ERD.png
+
 
 
 ## Findings
